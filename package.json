@@ -1,0 +1,29 @@
+{
+  "name": "library-genesis-desktop",
+  "version": "1.0.0",
+  "description": "A Cross-Platform Desktop Client of Library Genesis",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freemansu/library-genesis-desktop.git"
+  },
+  "keywords": [
+    "Library",
+    "Genesis",
+    "Client",
+    "Cross-Platform"
+  ],
+  "author": "Yu Su",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/freemansu/library-genesis-desktop/issues"
+  },
+  "homepage": "https://github.com/freemansu/library-genesis-desktop#readme",
+
+  "devDependencies": {
+    "electron": "^5.0.0"
+  }
+}
